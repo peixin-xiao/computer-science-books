@@ -1,0 +1,1 @@
+answer for <Introduction to Automata Theory, Languages, and Computation> is in http://infolab.stanford.edu/~ullman/ialcsols/sols.html
